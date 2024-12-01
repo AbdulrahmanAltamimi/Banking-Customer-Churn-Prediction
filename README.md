@@ -1,7 +1,7 @@
 # Banking Customer Churn Prediction Project
 
 ## Overview
-This project develops a machine learning pipeline to predict customer churn (churn vs. non-churn). Customer churn prediction is vital for identifying customers at risk of leaving and taking proactive measures to retain them.
+This project involves building a classification model to predict customer churn (churn vs. non-churn) using machine learning techniques.
 
 ---
 
